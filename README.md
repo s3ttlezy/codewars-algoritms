@@ -1,13 +1,16 @@
 # Algoritms from CodeWars resolved with JavaScript
 <ul>
-<li> Concerts dates</li>
-<li> Counting duplicates</li>
-<li> Fibonacchi next number calc</li>
-<li> Concerts dates</li>
-<li> Calculator via functions callbacks</li>
-<li> Palindrome</li>
-<li> Perimeter calculating from matrix array</li>
-<li> Tree branches counter</li>
-<li> Vowel counter</li>
-<li> Returning an array without duplicates (and also returning an array without repeating numbers)</li>
+<li> Body mass index calc - bmi.js</li>
+<li> Concerts dates - city_dates.js</li>
+<li> Counting duplicates - Counting_Duplicates.js</li>
+<li> Fibonacchi next number calc - fibonacchi.js</li>
+<li> Calculator via functions callbacks - func.js</li>
+<li> Calculating if a number is a perfect square - isSquare.js</li>
+<li> Palindrome - palindrome.js</li>
+<li> Closest Perfect Square - perfect-square.js</li>
+<li> Perimeter calculating from matrix array - perimetr.js</li>
+<li> Pock Paper Scissors - rps.js</li>
+<li> Tree branches counter - tree.js</li>
+<li> Vowel counter - vowel count.js</li>
+<li> Returning an array without duplicates (and also returning an array without repeating numbers) - without_repeat.js</li>
 </ul>
