@@ -5,6 +5,7 @@
 <li> Counting duplicates - Counting_Duplicates.js</li>
 <li> Fibonacchi next number calc - fibonacchi.js</li>
 <li> Calculator via functions callbacks - func.js</li>
+<li> Input (n) how many times the hoop goes round and it will return him an message - hoopCount.js</li>
 <li> Isogram is a word that has no repeating letters, consecutive or non-consecutive - isograms.js</li>
 <li> Calculating if a number is a perfect square - isSquare.js</li>
 <li> Palindrome - palindrome.js</li>
