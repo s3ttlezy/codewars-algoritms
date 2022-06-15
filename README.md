@@ -9,6 +9,7 @@
 <li> Isogram is a word that has no repeating letters, consecutive or non-consecutive - isograms.js</li>
 <li> Calculating if a number is a perfect square - isSquare.js</li>
 <li> Palindrome - palindrome.js</li>
+<li> Searching for first two different indexes in array numbers which values gets a target - twoSum.js</li>
 <li> Closest Perfect Square - perfect-square.js</li>
 <li> Perimeter calculating from matrix array - perimetr.js</li>
 <li> Pock Paper Scissors - rps.js</li>
