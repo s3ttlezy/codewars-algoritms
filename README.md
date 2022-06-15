@@ -11,6 +11,7 @@
 <li> Closest Perfect Square - perfect-square.js</li>
 <li> Perimeter calculating from matrix array - perimetr.js</li>
 <li> Pock Paper Scissors - rps.js</li>
+<li> A function which translates a given DNA string into RNA. - DNAtoRNA.js</li>
 <li> Tree branches counter - tree.js</li>
 <li> Vowel counter - vowel count.js</li>
 <li> Returning an array without duplicates (and also returning an array without repeating numbers) - without_repeat.js</li>
